@@ -13,7 +13,8 @@ The tool can be used both as a **teaching aid** and an **analytical framework** 
 ---
 
 ## Acknowledgements
-Special thanks to [Beka Westberg](http://bekawestberg.me/blog/pattern-language/) for sharing the original dataset that made this project possible. Full link: http://bekawestberg.me/blog/pattern-language/
+Special thanks to [Beka Westberg](http://bekawestberg.me/blog/pattern-language/) for sharing the original dataset that made this project possible. 
+Full link: http://bekawestberg.me/blog/pattern-language/
 
 ---
 
@@ -27,6 +28,6 @@ Special thanks to [Beka Westberg](http://bekawestberg.me/blog/pattern-language/)
 ## 💡 Usage
 Clone the repository and open the visualization in your browser:
 ```bash
-git clone https://github.com/yourusername/pattern-language-visualization.git
+git clone [https://github.com/yourusername/pattern-language-visualization.git](https://github.com/mahmud-tantoush/PatternLanguageInteractiveNetwork.git)
 cd pattern-language-visualization
 open index.html
